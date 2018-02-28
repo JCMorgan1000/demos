@@ -1,3 +1,3 @@
 # demos
 
-building a trigger.
+building a trigger to a Jenkins pipeline. 
